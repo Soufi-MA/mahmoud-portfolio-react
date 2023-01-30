@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mahmoud-portfolio/static/css/main.14b8bd39.css",
+    "main.js": "/mahmoud-portfolio/static/js/main.99f1cc47.js",
+    "static/media/Hero.jpg": "/mahmoud-portfolio/static/media/Hero.98b695f3dcd1492ed756.jpg",
+    "static/media/project-img.png": "/mahmoud-portfolio/static/media/project-img.911ff43f32ecffaecdb2.png",
+    "static/media/Logo.jpg": "/mahmoud-portfolio/static/media/Logo.f9b3b2b4c055af200c84.jpg",
+    "index.html": "/mahmoud-portfolio/index.html",
+    "main.14b8bd39.css.map": "/mahmoud-portfolio/static/css/main.14b8bd39.css.map",
+    "main.99f1cc47.js.map": "/mahmoud-portfolio/static/js/main.99f1cc47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14b8bd39.css",
+    "static/js/main.99f1cc47.js"
+  ]
+}
